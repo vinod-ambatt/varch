@@ -43,7 +43,4 @@ yay peazip variety gparted timeshift missioncontrol # archive manager , wallpape
 
 #links for help
 
-
-
-
 torrc :/home/<username>/.local/share/torbrowser/tbb/x86_64/tor-browser/Browser/TorBrowser/Data/Tor/
