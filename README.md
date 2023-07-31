@@ -22,7 +22,7 @@ git clone https://aur.archlinux.org/yay-git.git #sudo chown -R vinodambatt:vinod
 cd yay-git
 makepkg -si
 
-sudo usermod -c "Vinod Ambatt" vinodambatt #;)
+sudo usermod -c "User name" user #;)
 
 pacman -S --needed -xfce xfce-goodies #xfce install
 pacman -S network-manager-applet bluez bluez-utils blueman #network manager applet and bluetooth tools
@@ -43,4 +43,4 @@ yay peazip variety gparted timeshift missioncontrol # archive manager , wallpape
 
 #links for help
 
-torrc :/home/<username>/.local/share/torbrowser/tbb/x86_64/tor-browser/Browser/TorBrowser/Data/Tor/
+torrc :/home/"username"/.local/share/torbrowser/tbb/x86_64/tor-browser/Browser/TorBrowser/Data/Tor/
